@@ -81,7 +81,7 @@ https://pythonassignmentshelp.us/
 
 [Array Attributes: Shape, Size, Data Type](https://pythonassignmentshelp.us/array-attributes-shape-size-data-type/)
 
-
+[numpy Array Operations](https://pythonassignmentshelp.us/array-operations/)
 
 
 
